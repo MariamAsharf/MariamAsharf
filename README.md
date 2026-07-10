@@ -15,9 +15,11 @@
 Junior **Flutter Developer** with 1+ Years of Experience 💙🚀
 
 Passionate about building scalable, secure, and high-performance mobile applications using Flutter and Dart.
-I specialize in crafting robust, cross-platform solutions with rich UI/UX, real-time features, state management, and deep backend/AI integrations.
+I specialize in crafting robust, cross-platform solutions with rich UI/UX,
+real-time features, state management, and deep backend/AI integrations.
 
-Currently working at **veem Solutions (Saudi Arabia)** as a Junior Flutter Developer, contributing to innovative real-time chat mobile applications.
+Currently working at **veem Solutions (Saudi Arabia)** as a Junior Flutter Developer,
+contributing to innovative real-time chat mobile applications.
 
 My tech stack includes Flutter, Dart, Firebase, and integrating AI models to build advanced user experiences.
 

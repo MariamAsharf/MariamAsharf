@@ -1,6 +1,6 @@
 <h1 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  I'm Mariam Ashraf Hassan!
+  Hi there,I'm Mariam Ashraf Hassan!
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=Flutter+Developer" alt="Typing SVG">
